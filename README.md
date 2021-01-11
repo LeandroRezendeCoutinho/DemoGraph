@@ -11,6 +11,15 @@
 
 ### Results
 
+#### Autocannon
+![alt text](https://github.com/LeandroRezendeCoutinho/DemoGraph/GraphQlBench.png)
+
+#### Memory and CPU
+![alt text](https://github.com/LeandroRezendeCoutinho/DemoGraph/CPUMEMBench.png)
+
+#### CPU
+![alt text](https://github.com/LeandroRezendeCoutinho/DemoGraph/CPUBench.png)
+
 ### Server resources
 
 ### Hardware
