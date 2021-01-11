@@ -12,16 +12,16 @@
 ### Results
 
 #### Autocannon
-![alt text](https://github.com/LeandroRezendeCoutinho/DemoGraph/GraphQlBench.png)
+![alt text](https://github.com/LeandroRezendeCoutinho/DemoGraph/blob/master/img/GraphQlBench.png)
 
 #### Memory and CPU
-![alt text](https://github.com/LeandroRezendeCoutinho/DemoGraph/CPUMEMBench.png)
+![alt text](https://github.com/LeandroRezendeCoutinho/DemoGraph/blob/master/img/CPUMEMBench.png)
 
 #### CPU
-![alt text](https://github.com/LeandroRezendeCoutinho/DemoGraph/CPUBench.png)
+![alt text](https://github.com/LeandroRezendeCoutinho/DemoGraph/blob/master/img/CPUBench.png)
 
 #### Best results forcing high concurrency
-![alt text](https://github.com/LeandroRezendeCoutinho/DemoGraph/BestResult.png)
+![alt text](https://github.com/LeandroRezendeCoutinho/DemoGraph/blob/master/img/BestResult.png)
 
 - In this cenario memory don't change but uses 85% of CPU. Rest of CPU was used by autocannon.
 
