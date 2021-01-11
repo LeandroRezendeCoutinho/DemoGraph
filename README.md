@@ -20,6 +20,11 @@
 #### CPU
 ![alt text](https://github.com/LeandroRezendeCoutinho/DemoGraph/CPUBench.png)
 
+#### Best results forcing high concurrency
+![alt text](https://github.com/LeandroRezendeCoutinho/DemoGraph/BestResult.png)
+
+- In this cenario memory don't change but uses 85% of CPU. Rest of CPU was used by autocannon.
+
 ### Server resources
 
 ### Hardware
