@@ -25,6 +25,9 @@
 
 - In this cenario memory don't change but uses 85% of CPU. Rest of CPU was used by autocannon.
 
+#### Forcing even more pipeline 1000 concurrency 100
+![alt text](https://github.com/LeandroRezendeCoutinho/DemoGraph/blob/master/img/dotnet_hotchocolate_bench.png)
+
 ### Server resources
 
 ### Hardware

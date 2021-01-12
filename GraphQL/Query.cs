@@ -5,7 +5,7 @@ namespace DemoGraph.GraphQL
 {
     public class Query
     {
-        public Book GetBook() =>
+        public Book GetBook(int? id) =>
             new Book
             {
                 Title = "C# in depth.",
